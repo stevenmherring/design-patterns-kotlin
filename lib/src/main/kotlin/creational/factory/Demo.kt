@@ -4,7 +4,7 @@ import creational.factory.gui.Dialog
 import creational.factory.gui.HtmlDialog
 import creational.factory.gui.WindowsDialog
 
-object GuiDemo {
+object Demo {
     @JvmStatic
     private var dialog: Dialog? = null
 
